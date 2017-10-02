@@ -43,11 +43,11 @@ this Scratch extension.
 
 <br/><br/>
 
-== Dependencies
+## Dependencies
 * [serialport](href="https://www.npmjs.com/package/serialport")
 * [socket-io](href="https://www.npmjs.com/package/socket.io")
 
-== Attribution
+## Attribution
 
 Door sound effects from <a href="https://www.freesoundeffects.com/">freesoundeffects.com</a><br/>
 Bike Horn sound effect from <a href="http://soundbible.com/1446-Bike-Horn.html">soundbible.com</a><br/>
