@@ -1,0 +1,12 @@
+{
+  "name": "ScratchSerialExtension",
+  "version": "1.0.0",
+  "description": "This is a Serial Communication extension for Scratch - it allows you to pass serial messages between the scratch interface and any serial device.",
+  "main": "nodeServer.js",
+  "author": "Amanda Ghassaei",
+  "license": "MIT",
+  "dependencies": {
+    "serialport": "^4.0.7",
+    "socket.io": "^1.3.7"
+  }
+}

@@ -21,15 +21,11 @@ To use the node server, first install nodejs:
 
 <a href="https://nodejs.org/en/download/">node.js</a>
 
-this will also install the node package manager (npm), use npm into install the following dependencies from the terminal:
-
-<a href="https://www.npmjs.com/package/serialport">serialport</a><br/>
-**npm install -g serialport**<br/>
-
-<a href="https://www.npmjs.com/package/socket.io">socket-io</a><br/>
-**npm install -g socket.io**
+this will also install the node package manager (npm).
 
 Navigate to the parent directory of this repo in the terminal and run:
+
+**npm install**
 
 **node nodeServer.js**
 
@@ -47,7 +43,11 @@ this Scratch extension.
 
 <br/><br/>
 
-**Attribution:**
+== Dependencies
+* [serialport](href="https://www.npmjs.com/package/serialport")
+* [socket-io](href="https://www.npmjs.com/package/socket.io")
+
+== Attribution
 
 Door sound effects from <a href="https://www.freesoundeffects.com/">freesoundeffects.com</a><br/>
 Bike Horn sound effect from <a href="http://soundbible.com/1446-Bike-Horn.html">soundbible.com</a><br/>
