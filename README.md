@@ -44,8 +44,8 @@ this Scratch extension.
 <br/><br/>
 
 ## Dependencies
-* [serialport](href="https://www.npmjs.com/package/serialport")
-* [socket-io](href="https://www.npmjs.com/package/socket.io")
+* [serialport](https://www.npmjs.com/package/serialport)
+* [socket-io](https://www.npmjs.com/package/socket.io)
 
 ## Attribution
 
